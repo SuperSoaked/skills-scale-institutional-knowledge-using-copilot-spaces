@@ -1,7 +1,7 @@
 # OctoAcme — Execution & Tracking
 
 ## Purpose
-Guidance for managing day-to-day execution and tracking progress toward project milestones.
+Guidance for managing day-to-day execution and tracking progress toward project milestones. See [OctoAcme Personas](octoacme-roles-and-personas.md) for role descriptions.
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
@@ -20,7 +20,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (coordinate with Security Lead for threat assessment)
+- Accessibility testing for UI changes (coordinate with UX Designer)
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
@@ -32,6 +33,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- For specialized blockers, escalate to the appropriate role (Security Lead, DevOps Engineer, UX Designer, Customer Support) as needed
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
