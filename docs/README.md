@@ -15,16 +15,16 @@ Quality assurance combines automated unit, integration, and end-to-end smoke tes
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
-- [Execution &amp; Tracking](octoacme-execution-and-tracking.md)
-- [Risk Management &amp; Communication](octoacme-risks-and-communication.md)
-- [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
-- [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles &amp; Personas](octoacme-roles-and-personas.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
 
 ## Quick Start
 
 - Review the Project One-pager template in the Project Initiation Guide to validate ideas.
 - Use the Project Planning doc to create a prioritized backlog with acceptance criteria and a DoD.
-- Follow Execution &amp; Tracking for branch, PR, and CI expectations.
-- Use the Release &amp; Deployment Guide for pre-release checks and rollback plans.
+- Follow Execution & Tracking for branch, PR, and CI expectations.
+- Use the Release & Deployment Guide for pre-release checks and rollback plans.
 - Run a Retrospective after releases or milestones and convert actions into backlog items.
