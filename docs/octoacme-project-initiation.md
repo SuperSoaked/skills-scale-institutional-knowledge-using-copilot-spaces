@@ -27,11 +27,23 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (see [OctoAcme Personas](octoacme-roles-and-personas.md) for detailed role descriptions):
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - QA/Testing:
+  - UX Designer (if applicable):
+  - Security Lead (if applicable):
+  - DevOps Engineer (if applicable):
+  - Customer Support (if applicable):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Security requirements identified (consult Security Lead if needed)
+- [ ] UX/accessibility requirements identified (consult UX Designer if needed)
+- [ ] Infrastructure and deployment considerations noted (consult DevOps Engineer if needed)
+- [ ] Customer support impact and communication plan noted (consult Customer Support if needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
