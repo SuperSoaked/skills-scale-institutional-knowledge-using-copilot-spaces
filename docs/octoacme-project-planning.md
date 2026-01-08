@@ -1,7 +1,7 @@
 # OctoAcme — Project Planning
 
 ## Purpose
-Turn an approved initiative into an actionable plan and backlog for delivery.
+Turn an approved initiative into an actionable plan and backlog for delivery, engaging all relevant cross-functional roles. See [OctoAcme Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Objectives
 - Break work into shippable increments
@@ -20,6 +20,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Title:
 - Description:
 - Acceptance criteria:
+  - Functional requirements:
+  - UX/accessibility requirements (if applicable):
+  - Security requirements (if applicable):
+  - Performance/infrastructure requirements (if applicable):
+  - Support/documentation requirements (if applicable):
 - Priority:
 - Estimate:
 - Owner:
@@ -36,8 +41,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all relevant cross-functional roles
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Security requirements and threat model reviewed (with Security Lead if needed)
+- [ ] UX design and accessibility approach defined (with UX Designer if applicable)
+- [ ] Infrastructure and deployment plan outlined (with DevOps Engineer)
+- [ ] Customer support readiness and communication plan noted (with Customer Support if applicable)
